@@ -39,7 +39,7 @@
     "glob": "~4.1.5",
     "js-yaml": "~3.2.2",
     "lodash": "^3.10.1",
-    "stubby": "~0.2.0",
+    "stubby": "git://github.com/Tiagoperes/stubby4node.git#master",
     "vinyl-fs": "^0.3.0"
   }
 }
